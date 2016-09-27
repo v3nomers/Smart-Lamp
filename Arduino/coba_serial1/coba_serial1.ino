@@ -3,7 +3,8 @@
 
  Examples of how to evaluate, look for, and replace characters in a String
 
-
+ created 27 July 2010
+ modified 2 Apr 2012
  by Tom Igoe
 
  http://www.arduino.cc/en/Tutorial/StringIndexOf
